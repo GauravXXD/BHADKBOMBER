@@ -1,7 +1,7 @@
 
-# MASTER-BOMBER2.O
+# BHADK.BOMBER
 
-MASTER-BOMBER2.O is a Bash code Which can help you to prank your friends. By using this tool You Can Send Anonymous Email and Custom Email and send huge amount of sms , call , Whatsapp and email to your friends.
+BHADK.BOMBER is a Bash code Which can help you to prank your friends. By using this tool You Can Send Anonymous Email and Custom Email and send huge amount of sms , call , Whatsapp and email to your friends.
 
 
 ## Appendix
@@ -20,12 +20,12 @@ Automatic update when new update available
 ![App Screenshot](https://github.com/jatinkalwar/m-bomber2.O/blob/main/Additional/Screenshot_2023-03-07-19-57-50-53_84d3000e3f4017145260f7618db1d683.jpg) ![App Screenshot](https://github.com/jatinkalwar/m-bomber2.O/blob/main/Additional/Screenshot_2023-03-07-19-57-58-87_84d3000e3f4017145260f7618db1d683.jpg) ![App Screenshot](https://github.com/jatinkalwar/m-bomber2.O/blob/main/Additional/Screenshot_2023-04-28-10-39-22-21_84d3000e3f4017145260f7618db1d683.jpg)
 ## Authors
 
-- [@theJatinKalwar](https://www.github.com/jatinkalwar)
+- [@GauravXXD](https://www.github.com/GauravXXD)
 
 
 ##  Termux Installation
 
-Install Master-Bomber2.O in Termux
+Install BHADKBOMBER in Termux
 
 ```bash
 apt update -y && apt upgrade -y
@@ -35,8 +35,8 @@ pkg install pv -y
 pkg install figlet -y
 pkg install python3 -y
 pip install colorama
-git clone https://github.com/jatinkalwar/m-bomber2.O
-cd m-bomber2.O
+git clone https://github.com/GauravXXD/BHADKBOMBER
+cd BHADKBOMBER
 bash bomber.sh
 ```
 ##  Termux Single Line Installation
